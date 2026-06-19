@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f1e05a; 
-  width: 90.223%;
+  width: 90.230%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 3.104%;
+  width: 3.102%;
 " class="progress-item"></span><span style="
   background-color: #f7523f; 
-  width: 3.060%;
+  width: 3.058%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 1.513%;
+  width: 1.512%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 0.739%;
+  width: 0.738%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 0.677%;
@@ -155,7 +155,7 @@ div.ellipsis {
   width: 0.545%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 0.092%;
+  width: 0.091%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 0.041%;
@@ -185,7 +185,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">90.22%</span>
+  <span class="percent">90.23%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -281,7 +281,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Zig</span>
-  <span class="percent">0.55%</span>
+  <span class="percent">0.54%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
